@@ -142,7 +142,7 @@ function buildCharts(sample) {
     var idResultsbubble = [trace2];
     
     var layout3 = {
-      title: 'OTU ID Results',
+      title: 'Top Ten OTU ID Results By Count',
       showlegend: false
     };
     
